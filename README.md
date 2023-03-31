@@ -34,4 +34,4 @@ Liceense is a general MIT license.
 ## Features
 
 Features include HTML, CSS, JavaScript, and Git topics and information ascotiated with each.
-You can also open console to view the topics and a random topic is selected to suggest to study.
+You can also open console to view the topics and a random topic is selected to suggest to study. 
