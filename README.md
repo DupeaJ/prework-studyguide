@@ -1,35 +1,30 @@
-# <Pre-work Study Guide Website>
+# <Pre-work Study Guide Webpage>
 
 ## Description
 
--Creating this project of a study guide website was to help me learn the basics of coding and where to start.
--The website will also be available for others globally to learn and hopefully spark interest in what a carrer as a developer could look like with an interesting and informative webpage.
--I want the study guide to give quick and easy access for new developers to get the idea of what basic formats of code are and what they can help you develop, the topics my study guide helps people learn about are HTML, CSS, and JavaScript. I also have some helpful information about git basics to help new developers easily find those repetative task that every developer should know by heart.
--The website will help new developers have an easily accesible notes page for the basics and intro to develpment in coding, someone who has never even attempted to code can look at the webpage and easily find the basics they need to know about a few languages of code.
--Creating my website has had its challenges even with just the basics, ive learned how to access a terminal in mac as linex and in windows through git bash.
--Ive developed skills in how to use a remote repository with github and the necessary steps to push and pull code onto a local computer.
--Being able to create branches to work on certain features without interupting or messing up the main branch was a great step for me learn as a new developer so i can return and fix any mistakes that arise.
--I had some issues with creating a file with my main branch because i copied a file a few times with the same name and it got confusing trying to navigate through so many files, i got some help to create a new repo with the same files and keep my work I added in those files. I quickly learned afterwards that i lost all of my previous commits so i couldnt revert to my older saves, luckily I didn't need to go back to any old saves but it taught me the importants of setting up repos accurately the first time, and to not delete repos before a project is done even if i inteded to work on a new one.
-- I also lost my issues I had created for my project and had to remake them which was a little anoying but gave me some extra experience on creating the right headings and formats for issues so it wasnt all bad.
-- I took the time to setup my desktop (windows) and my laptop (mac) to connect to my github account and learned that you need different ssh keys for each computer but in the end i was able to quickly switch between computers and have all my updated work appear on either by pulling from my remote repository.
--Creating the website for my prework helped me establish the basics of using a repo for projects and being able to use a terminal to talk to the shell of a computer.
+The motivation behind developing this study guide webpage was to gain a foundational understanding of coding and its essential components. The webpage is not only intended to aid me but also benefit others as a resource available worldwide that can serve as an inspiration for aspiring developers. The goal is to provide condensed and easy access to fundamental coding concepts, specifically HTML, CSS, and JavaScript, while also offering practical advice on git basics.
+
+The webpage aims to provide a comprehensive yet accessible guide for new developers seeking to gain familiarity with coding. Even those with no prior experience in coding can use the webpage to gain a basic understanding of coding languages.
+
+I encountered several challenges throughout the development process, such as navigating through numerous files with similar names, creating accurate repos, and setting up different ssh keys for each computer. Even though I struggled with these issues, the experiences taught valuable lessons on the significance of creating accurate repos, maintaining records, and effectively structuring issues.
+
+The webpage has proven to be an instrumental tool for learning the essentials of coding, including the use of a terminal to communicate with the computer's shell, as well as how to establish remote repositories using GitHub. Through the development process, I gained valuable skills in creating branches and the knowledge for effectively collaborating with team members, ensuring that the main branch was not affected during development. In the end, the creation of this study guide webpage not only serves as a valuable resource for new developers but also demonstrates the importance of persevering through the challenges of development.
 
 ## Installation
 
-Go to website link, open console to view extra information.
+N/A
 
 ## Usage
 
-Intended to provide Information learned in Bootcamp that's easily accesible and easy to read.
+Intended to provide Information learned in Bootcamp that's easily accesible and easy to read. With suggested topic to learn in console
 
 ## Credits
 
-Credit to Columbia University for providing tutorials and assets to learn and setup website
-https://bootcamp.cvn.columbia.edu/coding/landing-ftpt-b5a/?s=Google-Brand_ExternalState_&dki=Learn%20Coding%20and%20More%20Online&pkw=columbia%20university%20coding%20bootcamp&pcrid=471051501291&pmt=e&utm_source=google&utm_medium=cpc&utm_campaign=GGL%7CCOLUMBIA-UNIVERSITY%7CSEM%7CCODING%7C-%7COFL%7C_ExternalState_%7CALL%7CBRD%7CEXACT%7CCore%7CBootcamp&utm_term=columbia%20university%20coding%20bootcamp&s=google&k=columbia%20university%20coding%20bootcamp&utm_adgroupid=116467048931&utm_locationphysicalms=9032835&utm_matchtype=e&utm_network=g&utm_device=c&utm_content=471051501291&utm_placement=&gclid=CjwKCAjw5pShBhB_EiwAvmnNV7FS2Gmljx5ZbmBSCWPYyWou-hE5b4fZAcblbM7qSqaDMl4L1tURsRoCu6MQAvD_BwE&gclsrc=aw.ds
+N/A
 
 ## License
 
-Liceense is a general MIT license.
+License is a general MIT license. Refer to the License in the repo.
 
 ## Features
 
